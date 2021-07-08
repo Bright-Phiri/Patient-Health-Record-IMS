@@ -1,4 +1,5 @@
 # Patient-Health-Record-IMS-
+Patient Health Record Management Information System
 ## Getting Started
 - Install XAMPP 
 - Open the XAMPP control panel and start the Apache and MySql modules after installation
